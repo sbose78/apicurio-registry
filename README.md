@@ -3,7 +3,7 @@
 
 # Apicurio Registry
 
-An API/Schema registry - stores and retrieves APIs and Schemas.
+An API/Schema registry - stores and retrieves APIs and Schemas
 
 ## Build Configuration
 
